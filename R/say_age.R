@@ -16,4 +16,3 @@
 say_age <- function(my_name, my_age, punctuation) {
   print(paste0("My name is ", my_name, " and I am ", my_age, " years old", punctuation))
 }
-
